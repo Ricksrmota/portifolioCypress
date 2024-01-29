@@ -1,7 +1,7 @@
-# Portifólio de Projeto Cypress
+# Projeto Cypress
 
 
-Esse portifólio foi feito com intuito de apresentar a automação E2E e de integração da API do Trello.
+Este portfólio foi criado com o objetivo de destacar a automação End-to-End (E2E) e a integração com a API do Trello.
 Link: https://developer.atlassian.com/cloud/trello/guides/rest-api/api-introduction/
 
 
