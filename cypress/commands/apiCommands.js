@@ -67,7 +67,7 @@ Cypress.Commands.add('limparMassaDados', () => {
           expect(deleteResponse.status).to.equal(200);
         });
       } else {     
-        cy.log(`Board com o nome "${boardName}" não encontrado.`);
+        cy.log(`Board não encontrado`);
       }
     });
   });
