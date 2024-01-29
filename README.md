@@ -8,3 +8,13 @@ Link: https://developer.atlassian.com/cloud/trello/guides/rest-api/api-introduct
 Mapa Mental de Automação
 
 https://miro.com/app/board/uXjVN17BUBI=/?share_link_id=930198928842
+
+
+
+
+# Funcionalidades
+
+*  Criar Board
+*  Criar Card
+*  Excluir Card
+*  Excluir Board
