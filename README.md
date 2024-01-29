@@ -18,3 +18,4 @@ https://miro.com/app/board/uXjVN17BUBI=/?share_link_id=930198928842
 *  Criar Card
 *  Excluir Card
 *  Excluir Board
+*  Criar Lista
