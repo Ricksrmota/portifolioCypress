@@ -1,0 +1,11 @@
+{
+  "name": "CypressPortifolio",
+  "version": "1.0.0",
+  "description": "Cypres Portifolio",
+  "main": "index.js",
+  "author": "Ricardo Mota",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^13.6.3"
+  }
+}
