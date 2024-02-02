@@ -1,3 +1,21 @@
+# Configurando o Ambiente
+
+## Iniciando Node
+
+Abra o terminal e digite:
+
+```bash
+npm init -y
+```
+## Instalar Cypress
+```bash
+npm install cypress --save-dev
+```
+## Iniciar Cypress
+```bash
+npx cypress open
+```
+
 # Projeto Cypress
 
 
